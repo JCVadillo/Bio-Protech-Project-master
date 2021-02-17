@@ -5,7 +5,7 @@ Project Supervisor: Professor Greg South
 
 Project Manager: Bruno Ribeiro
 
-Bio Protech Team:  Juan Carlos, Leopoldo Medeiros & Rodrigo Aguiar
+Bio Protech Team:  Juan Carlos Vadillo, Leopoldo Medeiros & Rodrigo Aguiar
 
 
 Parkinson's disease is a neurodegenerative disorder that affects over 10 million people worldwide (Health Unlocked, 2017). People diagnosed with Parkinson's Disease can experience tremors, muscular rigidity and slowness of movement. Tremor is the most common symptom and external agents like stress and anxiety can make it worse, which may cause complications to complete simple day-to-day tasks.
